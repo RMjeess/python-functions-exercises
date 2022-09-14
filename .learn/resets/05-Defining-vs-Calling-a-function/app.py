@@ -1,6 +1,4 @@
-def multi(int1, int2):
-  return int1 * int2
-
+# Define the function called "multi" that expects 2 parameters:
 
 # don't edit anything below this line
 return_value = multi(7,53812212)
